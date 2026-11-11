@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Nicolas Freitas, a student with an interdisciplinary background combining technology and the social sciences.<br>I am an undergraduate student in Social Sciences at the Federal University of Uberlândia (UFU), with an interdisciplinary background in Information Systems and a strong interest in the intersection of technology, society, and data.</p>
+<p data-importer="text" align="left">I'm Nicolas Freitas, an undergraduate student in Social Sciences at the Federal University of Uberlândia (UFU), with an academic background in Information Systems. My interests lie at the intersection of technology and society, particularly in Machine Learning, Anthropology, and Data Analysis.</p>
 
 ###
 
@@ -29,10 +29,10 @@
 ###
 
 <p align="left">
-  • 🤖 Machine Learning and Artificial Intelligence<br>
-  • 🔍 Anthropology and Social Research<br>
-  • 📊 Data Analysis and Computational Methods<br>
-  • 🌐 The relationship between technology, digital culture, and society
+  • Machine Learning and Artificial Intelligence<br>
+  • Anthropology and Social Research<br>
+  • Data Analysis and Computational Methods<br>
+  • The relationship between technology, digital culture, and society
   <br><br>
   I am particularly focused on exploring how computational tools and quantitative methods can deepen our understanding of human behavior, institutional dynamics, and collective social phenomena.
 </p>
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<h3 data-importer="text" align="left">My Stats</h3>
+<h3 data-importer="text" align="left">GitHub Activity</h3>
 
 ###
 
