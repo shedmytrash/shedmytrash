@@ -16,7 +16,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h3 data-importer="text" align="left">About Me</h3>
 
 ###
 
@@ -39,7 +39,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Technologies & Tools</h3>
+<h3 data-importer="text" align="left">Technologies & Tools</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-### 🌍 Languages
+### Languages
 
 <table align="center">
   <tr>
@@ -74,7 +74,7 @@
   </tr>
 </table>
 
-<h3 data-importer="text" align="left">🔥    My Stats</h3>
+<h3 data-importer="text" align="left">My Stats</h3>
 
 ###
 
