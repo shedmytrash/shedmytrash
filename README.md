@@ -12,7 +12,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Nicolas Freitas</h1>
+<h1 data-importer="text" align="center">Nicolas Freitas | Society, Technology & Data</h1>
 
 ###
 
