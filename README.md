@@ -28,7 +28,14 @@
 
 ###
 
-<p data-importer="text" align="left">- 🤖 Machine Learning and Artificial Intelligence<br>- 🔍 Anthropology and Social Research<br>- 📊 Data Analysis and Computational Methods<br>- 🌐 The relationship between technology, digital culture, and society<br><br>I am particularly focused on exploring how computational tools and quantitative methods can deepen our understanding of human behavior, institutional dynamics, and collective social phenomena.</p>
+<p align="left">
+  • 🤖 Machine Learning and Artificial Intelligence<br>
+  • 🔍 Anthropology and Social Research<br>
+  • 📊 Data Analysis and Computational Methods<br>
+  • 🌐 The relationship between technology, digital culture, and society
+  <br><br>
+  I am particularly focused on exploring how computational tools and quantitative methods can deepen our understanding of human behavior, institutional dynamics, and collective social phenomena.
+</p>
 
 ###
 
@@ -46,13 +53,26 @@
 
 ###
 
-<h3 data-importer="text" align="left">🌍    Languages</h3>
+### 🌍 Languages
 
-###
-
-<p data-importer="text" align="center">| Language | Proficiency |<br>| :--- | :--- |<br>| **Portuguese** | Native |<br>| **English** | Intermediate |<br>| **German** | Basic |</p>
-
-###
+<table align="center">
+  <tr>
+    <th>Language</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>🇧🇷 Portuguese</td>
+    <td>Native</td>
+  </tr>
+  <tr>
+    <td>🇺🇸 English</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>🇩🇪 German</td>
+    <td>Basic</td>
+  </tr>
+</table>
 
 <h3 data-importer="text" align="left">🔥    My Stats</h3>
 
