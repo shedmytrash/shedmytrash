@@ -4,9 +4,9 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="nfreitassilva@icloud.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+<div align="center">
+  <a href="mailto:nfreitasilva@icloud.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" alt="Outlook" />
   </a>
 </div>
 
